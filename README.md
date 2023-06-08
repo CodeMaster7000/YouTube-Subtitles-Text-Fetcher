@@ -1,4 +1,4 @@
-# YouTube Subtitle Text Fetcher
+# YouTube Subtitles Text Fetcher
 
 ## About
 
