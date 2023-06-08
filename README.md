@@ -2,7 +2,7 @@
 
 ## About
 
-A simple Python script to fetch the text of subtitles from a YouTube video.
+A simple Python script to fetch the text of subtitles from a YouTube video. It's time for you to put it to the test!
 
 ## Prerequisites
 
